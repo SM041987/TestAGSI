@@ -1,0 +1,122 @@
+[
+  {
+    "dob": "2024-03-23",
+    "numeroRGE": "RGE001",
+    "enregistrement": "ABC123",
+    "provenance": "Fabrication",
+    "designation": "Table en bois recyclé",
+    "valeur": "500",
+    "affectation": "Salle de réunion A",
+    "nature": "Meuble",
+    "justificatif": "Facture d'achat",
+    "observation": "Certifié FSC"
+  },
+  {
+    "dob": "2024-03-23",
+    "numeroRGE": "RGE002",
+    "enregistrement": "DEF456",
+    "provenance": "Achat",
+    "designation": "Chaise ergonomique",
+    "valeur": "200",
+    "affectation": "Bureau du directeur",
+    "nature": "Mobilier",
+    "justificatif": "Bon de commande",
+    "observation": "Ajustable en hauteur"
+  },
+  {
+    "dob": "2024-03-23",
+    "numeroRGE": "RGE003",
+    "enregistrement": "GHI789",
+    "provenance": "Achat",
+    "designation": "Voiture électrique",
+    "valeur": "35000",
+    "affectation": "Parc automobile",
+    "nature": "Véhicule",
+    "justificatif": "Contrat d'achat",
+    "observation": "Autonomie de 300 km"
+  },
+  {
+    "dob": "2024-03-23",
+    "numeroRGE": "RGE004",
+    "enregistrement": "JKL012",
+    "provenance": "Don",
+    "designation": "Ordinateur portable éco-responsable",
+    "valeur": "1200",
+    "affectation": "Salle des employés",
+    "nature": "Équipement informatique",
+    "justificatif": "Attestation de don",
+    "observation": "Fabriqué avec des matériaux recyclés"
+  },
+  {
+    "dob": "2024-03-23",
+    "numeroRGE": "RGE005",
+    "enregistrement": "MNO345",
+    "provenance": "Achat",
+    "designation": "Livre sur le développement durable",
+    "valeur": "25",
+    "affectation": "Bibliothèque municipale",
+    "nature": "Document",
+    "justificatif": "Ticket de caisse",
+    "observation": "Édition récente"
+  },
+  {
+    "dob": "2024-03-23",
+    "numeroRGE": "RGE006",
+    "enregistrement": "PQR678",
+    "provenance": "Don",
+    "designation": "Arbre fruitier",
+    "valeur": "80",
+    "affectation": "Jardin public",
+    "nature": "Végétal",
+    "justificatif": "Attestation de don",
+    "observation": "Espèce locale"
+  },
+  {
+    "dob": "2024-03-23",
+    "numeroRGE": "RGE007",
+    "enregistrement": "STU901",
+    "provenance": "Achat",
+    "designation": "Banc public en béton recyclé",
+    "valeur": "300",
+    "affectation": "Place du marché",
+    "nature": "Mobilier urbain",
+    "justificatif": "Facture d'achat",
+    "observation": "Résistant aux intempéries"
+  },
+  {
+    "dob": "2024-03-23",
+    "numeroRGE": "RGE008",
+    "enregistrement": "VWX234",
+    "provenance": "Achat",
+    "designation": "Panneau solaire",
+    "valeur": "1500",
+    "affectation": "Toit de l'école",
+    "nature": "Équipement énergétique",
+    "justificatif": "Bon de commande",
+    "observation": "Production d'énergie renouvelable"
+  },
+  {
+    "dob": "2024-03-23",
+    "numeroRGE": "RGE009",
+    "enregistrement": "YZA567",
+    "provenance": "Fabrication",
+    "designation": "Bouteille d'eau réutilisable",
+    "valeur": "10",
+    "affectation": "Cantine scolaire",
+    "nature": "Article de cuisine",
+    "justificatif": "Bon de production",
+    "observation": "Sans BPA"
+  },
+  {
+    "dob": "2024-03-23",
+    "numeroRGE": "RGE010",
+    "enregistrement": "BCD890",
+    "provenance": "Achat",
+    "designation": "Poubelle de tri sélectif",
+    "valeur": "50",
+    "affectation": "Parc municipal",
+    "nature": "Conteneur",
+    "justificatif": "Facture d'achat",
+    "observation": "Compartiments pour recyclage"
+  }
+]

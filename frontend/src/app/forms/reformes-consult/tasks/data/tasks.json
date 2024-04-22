@@ -1,0 +1,102 @@
+[
+  {
+    "id": "reforme-0001",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV001",
+    "designation": "Voiture électrique",
+    "justification": "Fin de vie utile, coût de possession égal à la valeur de la voiture",
+    "prix": 35000,
+    "montant": 35000,
+    "observation": "Affectée à la casse"
+  },
+  {
+    "id": "reforme-0002",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV002",
+    "designation": "Ordinateur portable",
+    "justification": "Défaillance matérielle majeure, réparation non rentable",
+    "prix": 1200,
+    "montant": 800,
+    "observation": "Recyclage des composants électroniques"
+  },
+  {
+    "id": "reforme-0003",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV003",
+    "designation": "Chaise de bureau",
+    "justification": "Usure excessive, risque pour la sécurité",
+    "prix": 200,
+    "montant": 0,
+    "observation": "Déchets appropriés"
+  },
+  {
+    "id": "reforme-0004",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV004",
+    "designation": "Table en bois",
+    "justification": "Dommages structurels irréparables",
+    "prix": 300,
+    "montant": 50,
+    "observation": "Bois recyclé pour d'autres projets"
+  },
+  {
+    "id": "reforme-0005",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV005",
+    "designation": "Imprimante",
+    "justification": "Obsolescence technologique, coût de réparation trop élevé",
+    "prix": 500,
+    "montant": 200,
+    "observation": "Destruction sécurisée des données"
+  },
+  {
+    "id": "reforme-0006",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV006",
+    "designation": "Fauteuil roulant",
+    "justification": "Pièces usées, non conformes aux normes de sécurité",
+    "prix": 800,
+    "montant": 0,
+    "observation": "Recyclage des matériaux"
+  },
+  {
+    "id": "reforme-0007",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV007",
+    "designation": "Projecteur",
+    "justification": "Panne électrique irréparable",
+    "prix": 1000,
+    "montant": 400,
+    "observation": "Récupération de composants pour réutilisation"
+  },
+  {
+    "id": "reforme-0008",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV008",
+    "designation": "Téléphone fixe",
+    "justification": "Dégradation du boîtier, risque d'électrocution",
+    "prix": 50,
+    "montant": 0,
+    "observation": "Traitement approprié des déchets électroniques"
+  },
+  {
+    "id": "reforme-0009",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV009",
+    "designation": "Climatiseur",
+    "justification": "Fuite de gaz réfrigérant, réparation non économique",
+    "prix": 2000,
+    "montant": 1000,
+    "observation": "Récupération de matériaux pour recyclage"
+  },
+  {
+    "id": "reforme-0010",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV010",
+    "designation": "Tablette numérique",
+    "justification": "Écran fissuré, coût de remplacement élevé",
+    "prix": 300,
+    "montant": 50,
+    "observation": "Effacement sécurisé des données avant recyclage"
+  }
+]

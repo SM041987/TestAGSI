@@ -1,0 +1,167 @@
+[
+  {
+    "id": "deterio-0001",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV006",
+    "designation": "Moniteur LCD",
+    "Type": "détérioration",
+    "justification": "Écran fissuré lors d'une manipulation imprudente",
+    "prix": "400",
+    "montant": "200",
+    "observation": "Réparation en cours"
+  },
+  {
+    "id": "perte-0001",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV001",
+    "designation": "Stylos",
+    "Type": "perte",
+    "justification": "Égarés lors du déménagement du bureau",
+    "prix": "50",
+    "montant": "50",
+    "observation": "Recherche infructueuse"
+  },
+  {
+    "id": "deterio-0002",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV007",
+    "designation": "Tapis de sol",
+    "Type": "détérioration",
+    "justification": "Usure normale due à une utilisation fréquente",
+    "prix": "100",
+    "montant": "0",
+    "observation": "Remplacement prévu dans le budget annuel"
+  },
+  {
+    "id": "perte-0002",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV002",
+    "designation": "Clés USB",
+    "Type": "perte",
+    "justification": "Perdues lors d'un événement extérieur",
+    "prix": "200",
+    "montant": "200",
+    "observation": "Fouille exhaustive des locaux"
+  },
+  {
+    "id": "perte-0003",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV003",
+    "designation": "Téléphone mobile",
+    "Type": "perte",
+    "justification": "Oublié dans un taxi",
+    "prix": "500",
+    "montant": "500",
+    "observation": "Requête auprès de la compagnie de taxi"
+  },
+  {
+    "id": "deterio-0003",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV008",
+    "designation": "Câbles d'alimentation",
+    "Type": "détérioration",
+    "justification": "Endommagés par des rongeurs",
+    "prix": "50",
+    "montant": "20",
+    "observation": "Inspection des locaux pour prévenir les dommages futurs"
+  },
+  {
+    "id": "deterio-0004",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV009",
+    "designation": "Fauteuil de bureau",
+    "Type": "détérioration",
+    "justification": "Accidentellement renversé, base cassée",
+    "prix": "150",
+    "montant": "50",
+    "observation": "Réparation en attente d'approbation"
+  },
+  {
+    "id": "deterio-0005",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV010",
+    "designation": "Lampe de bureau",
+    "Type": "détérioration",
+    "justification": "Ampoule brisée suite à une chute",
+    "prix": "30",
+    "montant": "10",
+    "observation": "Achat d'ampoules de rechange"
+  },
+  {
+    "id": "deterio-0001",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV006",
+    "designation": "Moniteur LCD",
+    "Type": "détérioration",
+    "justification": "Écran fissuré lors d'une manipulation imprudente",
+    "prix": "400",
+    "montant": "200",
+    "observation": "Réparation en cours"
+  },
+  {
+    "id": "perte-0004",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV004",
+    "designation": "Câbles Ethernet",
+    "Type": "perte",
+    "justification": "Dérobés lors d'un cambriolage",
+    "prix": "100",
+    "montant": "100",
+    "observation": "Déclaration à la police"
+  },
+  {
+    "id": "perte-0005",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV005",
+    "designation": "Casques audio",
+    "Type": "perte",
+    "justification": "Évaporés de l'inventaire sans explication",
+    "prix": "300",
+    "montant": "300",
+    "observation": "Contrôle d'accès renforcé"
+  },
+  {
+    "id": "deterio-0002",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV007",
+    "designation": "Tapis de sol",
+    "Type": "détérioration",
+    "justification": "Usure normale due à une utilisation fréquente",
+    "prix": "100",
+    "montant": "0",
+    "observation": "Remplacement prévu dans le budget annuel"
+  },
+  {
+    "id": "deterio-0003",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV008",
+    "designation": "Câbles d'alimentation",
+    "Type": "détérioration",
+    "justification": "Endommagés par des rongeurs",
+    "prix": "50",
+    "montant": "20",
+    "observation": "Inspection des locaux pour prévenir les dommages futurs"
+  },
+  {
+    "id": "deterio-0004",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV009",
+    "designation": "Fauteuil de bureau",
+    "Type": "détérioration",
+    "justification": "Accidentellement renversé, base cassée",
+    "prix": "150",
+    "montant": "50",
+    "observation": "Réparation en attente d'approbation"
+  },
+  {
+    "id": "deterio-0005",
+    "dob": "2024-03-23",
+    "numeroinventaire": "INV010",
+    "designation": "Lampe de bureau",
+    "Type": "détérioration",
+    "justification": "Ampoule brisée suite à une chute",
+    "prix": "30",
+    "montant": "10",
+    "observation": "Achat d'ampoules de rechange"
+  }
+]
