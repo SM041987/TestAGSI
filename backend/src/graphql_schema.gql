@@ -1,0 +1,74 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Piece {
+  id_piece: String!
+  type_piece: String!
+  date_piece: DateTime
+  createAt: DateTime
+  updateAt: DateTime
+  deleteAt: DateTime
+  fournisseur: Fournisseur
+  id_fournisseur: String
+}
+
+"""
+A date-time string at UTC, such as 2019-12-03T09:54:33Z, compliant with the date-time format.
+"""
+scalar DateTime
+
+type Fournisseur {
+  id_fournisseur: String!
+  denomination_fournisseur: String!
+  num_telephone: String!
+  adresse_mail: String!
+  adresse_postal: String
+  createAt: DateTime
+  updateAt: DateTime
+  deliteAt: DateTime
+  pieces: [Piece!]
+}
+
+type Query {
+  getFournisseurs: [Fournisseur!]!
+  getOneFournisseur(id: String!): Fournisseur!
+  getPieces: [Piece!]!
+  FindOnePiece(id: String!): Piece!
+}
+
+type Mutation {
+  createFournisseur(fournisseur: CreateFournisseurInput!): Fournisseur!
+  createPiece(piece: CreatePieceInput!): Piece!
+  updatePiece(piece: UpdatePieceInput!): Piece!
+  removePiece(id: String!): Piece!
+}
+
+input CreateFournisseurInput {
+  denomination_fournisseur: String!
+  num_telephone: String!
+  adresse_mail: String!
+  adresse_postal: String
+  createAt: DateTime
+  updateAt: DateTime
+  deliteAt: DateTime
+}
+
+input CreatePieceInput {
+  type_piece: String!
+  date_piece: DateTime
+  createAt: DateTime
+  updateAt: DateTime
+  deleteAt: DateTime
+  id_fournisseur: String!
+}
+
+input UpdatePieceInput {
+  id_piece: String!
+  type_piece: String!
+  date_piece: DateTime
+  createAt: DateTime
+  updateAt: DateTime
+  deleteAt: DateTime
+  id_fournisseur: String!
+}
